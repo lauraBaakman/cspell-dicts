@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-django@3.0.0...@cspell/dict-django@4.0.0) (2022-11-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Django Dictionary (#1611)
+
+### Features
+
+* Upgrade Django Dictionary ([#1611](https://github.com/streetsidesoftware/cspell-dicts/issues/1611)) ([3bded9b](https://github.com/streetsidesoftware/cspell-dicts/commit/3bded9b6808aa1492c92fe94dae52e317bb28d6b))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-django@2.0.0...@cspell/dict-django@3.0.0) (2022-10-10)
 
 

@@ -1,5 +1,38 @@
 # Release Notes
 
+## [6.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@5.0.0...cspell-dicts@6.0.0) (2022-11-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade dotnet Dictionary
+* Upgrade Django Dictionary (#1611)
+* Upgrade CSS Dictionary (#1610)
+* Upgrade Elixir Dictionary (#1614)
+
+### Features
+
+* Create Gaming Dictionary ([#1609](https://github.com/streetsidesoftware/cspell-dicts/issues/1609)) ([a1c6af4](https://github.com/streetsidesoftware/cspell-dicts/commit/a1c6af4196092e03ed6b3cf550b7b2185a2e7d1a))
+* Upgrade CSS ([e944ce6](https://github.com/streetsidesoftware/cspell-dicts/commit/e944ce66c515d973146507e85fc8e7eb85b50dde))
+* Upgrade CSS Dictionary ([#1610](https://github.com/streetsidesoftware/cspell-dicts/issues/1610)) ([e944ce6](https://github.com/streetsidesoftware/cspell-dicts/commit/e944ce66c515d973146507e85fc8e7eb85b50dde))
+* Upgrade Django Dictionary ([#1611](https://github.com/streetsidesoftware/cspell-dicts/issues/1611)) ([3bded9b](https://github.com/streetsidesoftware/cspell-dicts/commit/3bded9b6808aa1492c92fe94dae52e317bb28d6b))
+* Upgrade dotnet Dictionary ([2fcf797](https://github.com/streetsidesoftware/cspell-dicts/commit/2fcf79731873f1a87a3e7afca39670c6e128e995))
+* Upgrade Elixir Dictionary ([#1614](https://github.com/streetsidesoftware/cspell-dicts/issues/1614)) ([9147e6c](https://github.com/streetsidesoftware/cspell-dicts/commit/9147e6c81a3fb6b67c28a673bcaa5d0d6d5fe558))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1607](https://github.com/streetsidesoftware/cspell-dicts/issues/1607)) ([59c4824](https://github.com/streetsidesoftware/cspell-dicts/commit/59c482409348a6b53f1e42f7c40d11fcf959c81d))
+* Workflow Bot -- Update ALL Dependencies ([24029e2](https://github.com/streetsidesoftware/cspell-dicts/commit/24029e2251a467c1e0cb4d9d6d3786714fbab4f7))
+* Workflow Bot -- Update ALL Dependencies ([9bed49b](https://github.com/streetsidesoftware/cspell-dicts/commit/9bed49b304c8b9c2fdd58af8b7f1d4dbf4a0ea0f))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1616](https://github.com/streetsidesoftware/cspell-dicts/issues/1616)) ([9bed49b](https://github.com/streetsidesoftware/cspell-dicts/commit/9bed49b304c8b9c2fdd58af8b7f1d4dbf4a0ea0f))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1618](https://github.com/streetsidesoftware/cspell-dicts/issues/1618)) ([24029e2](https://github.com/streetsidesoftware/cspell-dicts/commit/24029e2251a467c1e0cb4d9d6d3786714fbab4f7))
+
+
+### Updates and Bug Fixes
+
+* Do not enable `gaming-terms` dictionary by default. ([#1619](https://github.com/streetsidesoftware/cspell-dicts/issues/1619)) ([622e204](https://github.com/streetsidesoftware/cspell-dicts/commit/622e2046c60ec11685fa6bbd51ec750cf36ab337))
+
 ## [5.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@4.0.5...cspell-dicts@5.0.0) (2022-11-08)
 
 
